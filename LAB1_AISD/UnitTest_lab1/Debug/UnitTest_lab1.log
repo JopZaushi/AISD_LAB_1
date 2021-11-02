@@ -1,0 +1,7 @@
+﻿  UnitTest_lab1.cpp
+D:\Program Files (x86)\programs\LAB1_AISD\LAB1_AISD\List.h(117,35): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Program Files (x86)\programs\LAB1_AISD\LAB1_AISD\List.h(135,35): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Program Files (x86)\programs\LAB1_AISD\LAB1_AISD\List.h(154,35): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Program Files (x86)\programs\LAB1_AISD\LAB1_AISD\List.h(190,31): warning C4018: <: несоответствие типов со знаком и без знака
+     Создается библиотека D:\Program Files (x86)\programs\LAB1_AISD\Debug\UnitTest_lab1.lib и объект D:\Program Files (x86)\programs\LAB1_AISD\Debug\UnitTest_lab1.exp
+  UnitTest_lab1.vcxproj -> D:\Program Files (x86)\programs\LAB1_AISD\Debug\UnitTest_lab1.dll
